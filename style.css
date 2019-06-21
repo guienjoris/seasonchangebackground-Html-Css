@@ -1,0 +1,19 @@
+*{
+    text-align:center;
+    
+}
+body{
+    display:flex;
+    flex-direction:column;
+}
+input{
+    top:0;
+    position:relative;
+    width:10vw;
+}
+#description_saison{
+    font-size:300%;
+    margin-top:20%;
+    color:white;
+    text-shadow: 1px 1px 1px black;
+}
